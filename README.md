@@ -9,5 +9,5 @@ You can:
 6. lend book to someone
 7. return book
 
-   First 5 options are saved on a file named "book_list.csv"
+   First 5 options are saved on a file named "book_list.csv"\n
    last 2 options are saved on a file named "lend_books.csv"
